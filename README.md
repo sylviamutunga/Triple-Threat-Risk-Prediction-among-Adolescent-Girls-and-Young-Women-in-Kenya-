@@ -47,33 +47,35 @@ Outcome categorization
 
 Models were developed for:
 
-Pregnancy Risk
-Behavioural HIV Risk
-GBV Risk
+Pregnancy Risk,
+Behavioural HIV Risk,
+GBV Risk.
 
 Model performance was evaluated using:
 
-ROC-AUC
-Confusion Matrix
-Feature Importance
+ROC-AUC,
+Confusion Matrix,
+Feature Importance.
 
 ## Dashboard Features
 
 The Power BI dashboard includes:
 
-KPI Cards
-Risk by Age
-Risk by County/Region
-Geographic Map
-High-Risk Profile Table
-Interactive Filters
-Key Insights Panel
+KPI Cards,
+Risk by Age,
+Risk by Education Level,
+Risk by Income Level,
+Risk by County/Region,
+Geographic Map,
+High-Risk Profile Table,
+Interactive Filters,
+Key Insights Panel,
 
 ## Results
 Outcome	ROC-AUC
-Pregnancy Risk	0.75
-Behavioural HIV Risk	0.92
-GBV Risk	0.81
+Pregnancy Risk	0.75,
+Behavioural HIV Risk	0.92,
+GBV Risk	0.81.
 
 ## Workflow
 KDHS 2022 Data
@@ -104,7 +106,7 @@ Interactive visualizations support evidence-based public health planning.
 
 ## Future Improvements
 
-External model validation
-Hyperparameter optimization
-Explainable AI using SHAP
-Integration of additional health and environmental datasets
+External model validation,
+Hyperparameter optimization,
+Explainable AI using SHAP,
+Integration of additional health and environmental datasets.
