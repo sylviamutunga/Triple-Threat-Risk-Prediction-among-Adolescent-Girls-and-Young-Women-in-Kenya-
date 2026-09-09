@@ -18,19 +18,29 @@ Note: The raw DHS dataset is not included due to data use restrictions. Research
 
 ## Tools & Technologies
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Power BI
+
 Git & GitHub
 
 # Methodology
 ## Data Preparation
 Data cleaning
+
 Missing value handling
+
 Feature engineering
+
 Risk score creation
+
 Outcome categorization
 
 ## Machine Learning
