@@ -1,5 +1,6 @@
-##Triple Threat Risk Prediction among Adolescent Girls and Young Women (KDHS 2022)
+#Triple Threat Risk Prediction among Adolescent Girls and Young Women (KDHS 2022)
 Overview
+
 
 This project develops machine learning models to predict pregnancy risk, behavioural HIV risk, and gender-based violence (GBV) risk among adolescent girls and young women (15–24 years) using data from the Kenya Demographic and Health Survey (KDHS) 2022. An interactive Power BI dashboard was created to visualize demographic and geographic risk patterns and support evidence-based decision-making.
 
