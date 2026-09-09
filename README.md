@@ -3,7 +3,7 @@ Overview
 
 This project develops machine learning models to predict pregnancy risk, behavioural HIV risk, and gender-based violence (GBV) risk among adolescent girls and young women (15–24 years) using data from the Kenya Demographic and Health Survey (KDHS) 2022. An interactive Power BI dashboard was created to visualize demographic and geographic risk patterns and support evidence-based decision-making.
 
-## Objectives
+# Objectives
 Predict pregnancy risk among AGYW.
 Predict behavioural HIV risk among AGYW.
 Predict GBV risk among AGYW.
@@ -25,8 +25,8 @@ Matplotlib
 Power BI
 Git & GitHub
 
-## Methodology
-# Data Preparation
+# Methodology
+## Data Preparation
 Data cleaning
 Missing value handling
 Feature engineering
@@ -46,3 +46,55 @@ Model performance was evaluated using:
 ROC-AUC
 Confusion Matrix
 Feature Importance
+
+## Dashboard Features
+
+The Power BI dashboard includes:
+
+KPI Cards
+Risk by Age
+Risk by County/Region
+Geographic Map
+High-Risk Profile Table
+Interactive Filters
+Key Insights Panel
+
+## Results
+Outcome	ROC-AUC
+Pregnancy Risk	0.75
+Behavioural HIV Risk	0.92
+GBV Risk	0.81
+
+## Workflow
+KDHS 2022 Data
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Machine Learning Models
+        │
+        ▼
+Model Evaluation
+        │
+        ▼
+Power BI Dashboard
+
+## Key Findings
+Behavioural HIV, pregnancy, and GBV risks vary across age groups.
+
+Geographic disparities highlight counties and regions requiring targeted interventions.
+
+Multiple demographic and socioeconomic factors contribute to risk prediction.
+
+Interactive visualizations support evidence-based public health planning.
+
+## Future Improvements
+
+External model validation
+Hyperparameter optimization
+Explainable AI using SHAP
+Integration of additional health and environmental datasets
